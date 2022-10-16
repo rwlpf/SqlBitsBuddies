@@ -101,7 +101,7 @@ Has there been any feedback from attendees
 
 -   Compounded by not knowing who other helper was in the room
 
--   Maybe buddies should RM less so they can be in Community Zone less
+-   Maybe buddies should RM less so they can be in Community Zone more
 
 -   Separate part of app to allow buddies to allocate themselves to Community Zone at specific times
 
