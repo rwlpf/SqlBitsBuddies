@@ -5,7 +5,7 @@ Purpose - to provide some suggestions and assistance for someone creating a busi
 
 Reasons for send your team member(s) to a conference.
 
-If the member is putting forward a request to attend a conference, they will be the person who -:
+If the member is putting forward a request to attend a conference, they will be the person who is -:
 
  - Proactive seeking out solutions
  -   Is keen to learn
